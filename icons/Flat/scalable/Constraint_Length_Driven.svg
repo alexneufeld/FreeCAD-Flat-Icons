@@ -7,11 +7,48 @@
    version="1.1"
    id="svg4668"
    sodipodi:docname="Constraint_Length_Driven.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <style id="style1">
+     :root {
+      --color01: #f1f3f5;
+      --color02: #ced4da;
+      --color03: #adb5bd;
+      --color04: #868e96;
+      --color05: #495057;
+      --color06: #343a40;
+      --color07: #212529;
+      --color08: #fa5252;
+      --color09: #f03e3e;
+      --color10: #e64980;
+      --color11: #d6336c;
+      --color12: #be4bdb;
+      --color13: #ae3ec9;
+      --color14: #7950f2;
+      --color15: #7048e8;
+      --color16: #4c6ef5;
+      --color17: #4263eb;
+      --color18: #1c7ed6;
+      --color19: #1c7ed6;
+      --color20: #15aabf;
+      --color21: #1098ad;
+      --color22: #12b886;
+      --color23: #0ca678;
+      --color24: #40c057;
+      --color25: #37b24d;
+      --color26: #82c91e;
+      --color27: #74b816;
+      --color28: #fcc419;
+      --color29: #fab005;
+      --color30: #f59f00;
+      --color31: #ff922b;
+      --color32: #fd7e14;
+      --color33: #f76707;
+     }
+  </style>
   <defs
      id="defs4672" />
   <sodipodi:namedview
@@ -25,10 +62,10 @@
      inkscape:deskcolor="#505050"
      showgrid="false"
      inkscape:zoom="16.145605"
-     inkscape:cx="9.2285176"
-     inkscape:cy="17.620894"
-     inkscape:window-width="2560"
-     inkscape:window-height="1369"
+     inkscape:cx="21.306108"
+     inkscape:cy="22.79258"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -60,13 +97,13 @@
   <path
      d="m 15.5037,6.92132 h 4.2426 V 11.164 Z"
      id="path4656"
-     style="fill:#228be6" />
+     style="fill:var(--color19)" />
   <path
      d="M 11.261,19.6492 H 7.01833 v -4.2426 z"
      id="path4658"
-     style="fill:#228be6" />
+     style="fill:var(--color19)" />
   <path
-     style="fill:#fd7e14;fill-rule:evenodd;stroke:#228be6;stroke-width:1.5;stroke-linecap:round;stroke-dashoffset:0;paint-order:markers fill stroke;stroke-dasharray:0.15,2.25"
+     style="fill:#fd7e14;fill-rule:evenodd;stroke:var(--color19);stroke-width:1.5;stroke-linecap:round;stroke-dashoffset:0;paint-order:markers fill stroke;stroke-dasharray:0.15,2.25"
      d="M 9.139665,17.5279 17.625,9.04266"
      id="path8352" />
 </svg>
