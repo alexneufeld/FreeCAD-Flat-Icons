@@ -14,3 +14,19 @@ In order to use the theme, you need to have the "Icon Themes" addon installed. P
 Please review the Icon_Guidelines file for some general rules on how I've developed these icons. It is rather incomplete, however I am available to answer questions and recieve feedback via the [FreeCAD Discord](https://discord.gg/uh85ZRNcfk)
 
 Eventually, I envison the possibility to automate color modifications to these icons to be used with stylized themes by other artists/designers.
+
+
+Regenerate the `.qrc` file:
+
+``` bash
+python ./qrcgen.py ./icons "REMOVE123456"
+sed -i 's/ prefix="REMOVE123456"//' ./icons.qrc
+
+```
+
+Pack the `.rcc` file:
+
+``` bash
+rcc --binary --no-compress -o Flat_Dark.rcc ./icons.qrc
+
+```
